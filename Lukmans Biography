@@ -8,6 +8,19 @@
          color: blue;
          font-size: 15pt;
       }
+      h1 {
+      color: black 
+      font-size:30pt;
+      }
+       section {
+           width: 500px;
+           background-color: blue;
+           padding: 100px;
+           border: 10px white;
+           margin: 25px;
+           height: 100px;
+          overflow: scroll;
+           }
   </style>
  </head>
  <body>
@@ -70,5 +83,12 @@
        <i><h3> My favourite hooby is playing sports as well as reading i also like playing video games and i like to do track track is my favourite track is fun
         because of the compettion in my opinoin</h3></i>
    <a href ="bendawi.html"><src="bendawi.html>click here</a>
+    <section>
+   <p>this is a box and this is where i am going to tell you where i am from
+   </p>
+   </section>
+   <section>
+   <p> I was born in libya in 2006 and moved to the USA in 2011 </p>
+   </section>
   </body>
 </html>
